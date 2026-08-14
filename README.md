@@ -404,5 +404,26 @@ Users can filter the analysis by WHO region.
 
 These filters allow users to investigate malaria patterns from different geographical and temporal perspectives.
 
+Project Highlights
+Metric	Result
+Countries Analyzed	-107
+Period Covered	-(2010–2017)
+Total Malaria Cases	-2bn
+Estimated Deaths	-5M
+Highest Burden Region	-Africa
+Top Country by Displayed Cases	-Nigeria
+
+Conclusion
+
+The Global Malaria Burden: Cases, Mortality & Trends (2010–2017) project demonstrates how public health data can be transformed into an interactive analytical dashboard.
+
+The analysis covers 107 countries and highlights significant geographical and temporal differences in malaria cases and estimated deaths. Africa emerges as the dominant malaria-burden region, while Nigeria leads the displayed Top 7 countries by malaria cases.
+
+Although estimated malaria deaths show an overall downward trend, malaria cases fluctuate during the period, demonstrating the importance of continued surveillance, prevention, diagnosis, treatment, and targeted intervention.
+
+The project demonstrates practical skills in data cleaning, data transformation, exploratory data analysis, dashboard development, data visualization, KPI creation, geographical analysis, and data storytelling.
+
+The dashboard provides a foundation for deeper public health analysis and demonstrates how data-driven insights can support more targeted malaria-control strategies.
+
 <img width="1333" height="741" alt="Global Malaria Burden Sreenshot" src="https://github.com/user-attachments/assets/8412bef2-5e82-4776-b779-17a95984605c" />
 https://drive.google.com/drive/folders/1tGD4jfzNfD4Xgnwo4Zl0Kcm3hA1rnXEV?usp=drive_link
